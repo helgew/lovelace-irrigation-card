@@ -2,5 +2,6 @@
   "name": "Lovelace Irrigation Card",
   "content_in_root": true,
   "filename": "irrigation-zone-card.js",
-  "country": ["US"]
+  "country": ["US"],
+  "render_readme": true
 }
